@@ -4,10 +4,10 @@ TUBES PBO BANK MANAGEMENT SYSTEM BY :
 2. Geizka Rozilia Ruicosta 119140114
 3. Mochamad Nafis Akmalussyifa 119140135
 
-Bank Mino adalah sebuah aplikasi sederhana berbasis desktop yang dibangun menggunakan python dan Tkinter sebagai GUI nya
+Bank Mino merupakan suatu program bertema Bank Management System untuk memenuhi nilai tugas besar mata kuliah Pemrograman Berbasis Objek. Di sini kelompok kami menggunakan bahasa pemrograman python yang di dalamnya terdapat beberapa database
 
-Ammar = Konsep, logic, front end back end, yang ngoding
+Ammar = Konsep, logic, prorammer
 
-Costa = Revisi logic dasar, back end, ngoding juga
+Costa = Revisi logic dasar, programmer
 
-Nafis = Laporan, persiapan presentasi
+Nafis = Laporan, persiapan presentasi, tester
