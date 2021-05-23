@@ -1,13 +1,13 @@
 # PBO-Bank-Management-System
 TUBES PBO BANK MANAGEMENT SYSTEM BY :
-1. M. Ammar Fadhila Ramadhan 119140029
-2. Geizka Rozilia Ruicosta 119140114
-3. Mochamad Nafis Akmalussyifa 119140135
+1. M. Ammar Fadhila Ramadhan (119140029)
+2. Geizka Rozilia Ruicosta (119140114)
+3. Mochamad Nafis Akmalussyifa (119140135)
 
-Bank Mino adalah sebuah aplikasi sederhana berbasis desktop yang dibangun menggunakan python dan Tkinter sebagai GUI nya
+Bank Mino merupakan suatu program Bank Management System buatan kelompok kami, dimana bahasa yang kami gunakan adalah python dan didalamnya mengandung database.
 
-Ammar = Konsep, logic, front end back end, yang ngoding
+Ammar = Konsep, logic, ngoding
 
-Costa = Revisi logic dasar, back end, ngoding juga
+Costa = Revisi logic dasar, ngoding juga
 
-Nafis = Laporan, persiapan presentasi
+Nafis = Laporan, persiapan presentasi, tester, penyemangat
